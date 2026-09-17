@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TF31-50S-0.5SH_800_") (type "KiCad") (uri "${KIPRJMOD}/includes/TF31-50S-0.5SH_800_/TF31-50S-0.5SH_800_.kicad_sym") (options "") (descr ""))
+)

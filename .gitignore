@@ -1,0 +1,22 @@
+# KiCad
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+
+# Temp
+*.tmp
+*.rpt
+
+# Editor
+.history/
+.vscode/
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Windows
+Thumbs.db
+Desktop.ini
