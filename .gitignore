@@ -3,6 +3,7 @@
 *-backups/
 _autosave-*
 *.lck
+.history_trim
 
 # Temp
 *.tmp

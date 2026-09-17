@@ -2955,22 +2955,16 @@
 		)
 	)
 	(junction
-		(at 184.15 52.07)
+		(at 184.15 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0f017b3f-bc2b-478b-b620-e7c3a07609ef")
+		(uuid "01dc999d-ca5c-44ca-bd7e-01120286beec")
 	)
 	(junction
 		(at 92.71 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1064ad1a-b0b0-4167-8b1b-bf218f13f533")
-	)
-	(junction
-		(at 184.15 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "118e9482-ceb0-4507-8aba-4422d47d310c")
 	)
 	(junction
 		(at 88.9 96.52)
@@ -3109,6 +3103,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2936702-1bc1-47af-bd0e-e82f19740b09")
+	)
+	(junction
+		(at 184.15 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c971d334-5c13-4add-9f71-6ed4581e9060")
 	)
 	(junction
 		(at 88.9 111.76)
@@ -5686,7 +5686,8 @@
 	)
 	(symbol
 		(lib_id "TF31-50S-0.5SH_800_:TF31-50S-0.5SH_800_")
-		(at 194.31 90.17 180)
+		(at 194.31 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5696,7 +5697,7 @@
 		(dnp no)
 		(uuid "fabcdb1b-7cea-4df4-9759-50e992d21fe3")
 		(property "Reference" "J2"
-			(at 194.3541 161.29 0)
+			(at 194.3541 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5706,7 +5707,7 @@
 			)
 		)
 		(property "Value" "TF31-50S-0.5SH_800_"
-			(at 194.3541 158.75 0)
+			(at 194.3541 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5716,7 +5717,7 @@
 			)
 		)
 		(property "Footprint" "TF31-50S-0.5SH_800_:HRS_TF31-50S-0.5SH_CableFingers"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5728,7 +5729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5739,7 +5740,7 @@
 			)
 		)
 		(property "Description" "50 Position FFC, FPC Connector Contacts, Bottom 0.020 (0.50mm) Surface Mount, Right Angle"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5751,7 +5752,7 @@
 			)
 		)
 		(property "MF" "Hirose Electric Co Ltd"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5763,7 +5764,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5775,7 +5776,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5787,7 +5788,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TF31-50S-0.5SH(800)/Hirose/view-part/?ref=eda"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5799,7 +5800,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TF31-50S-0.5SH(800)/Hirose/view-part/?ref=snap"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5811,7 +5812,7 @@
 			)
 		)
 		(property "MP" "TF31-50S-0.5SH(800)"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5823,7 +5824,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5835,7 +5836,7 @@
 			)
 		)
 		(property "MANUFACTURER" "HRS"
-			(at 194.31 90.17 0)
+			(at 194.31 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
